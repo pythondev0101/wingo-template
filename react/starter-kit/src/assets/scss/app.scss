@@ -1,0 +1,38 @@
+@import "~bootstrap-scss/bootstrap.scss";
+@import "vendors/chartist/chartist";
+// @import "vendors/whether-icon.scss";
+// @import "vendors/aos/core";
+// @import "vendors/data-table/dataTables.bootstrap";
+// @import "vendors/data-table/dataTables.bootstrap4";
+// @import "vendors/date-picker.scss";
+// @import "vendors/feather-icon.scss";
+@import "vendors/svg-icon/svg-icon";
+@import "vendors/font-awesome.scss";
+@import "vendors/flag-icon.scss";
+@import "vendors/icoicon/icons";
+@import "vendors/animate/animate";
+@import "vendors/sticky/sticky";
+@import "vendors/todo/todo";
+// @import "vendors/icofont.scss";
+@import 'vendors/themify.scss';
+
+// Datepicker
+@import "~react-datepicker/dist/react-datepicker.css";
+
+//  calendar
+@import "~@fullcalendar/daygrid/main.css";
+@import "~react-big-calendar/lib/css/react-big-calendar.css";
+
+// Dropzone
+@import "~react-dropzone-uploader/dist/styles.css";
+
+// chat emoji
+// @import 'emoji-mart/css/emoji-mart.css';
+
+
+// ReactToastify
+@import "~react-toastify/dist/ReactToastify.css";
+
+@import "style.scss";
+
+@import "responsive.scss";
